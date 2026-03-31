@@ -150,3 +150,93 @@ g.......A........:
 ### 🔗 Boglaniw
 - [GitHub](https://github.com/ARTURLION)  
 - [LinkedIn](https://linkedin.com/in/ARTURLION)
+g<h1 align="center">Salom 👋 Men Asqar</h1>
+
+<h3 align="center">💻 Frontend Developer | 🎮 Gamer | 🚀 Kreativ Bala</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Salom+Men+Asqar;Frontend+Developer;HTML+CSS+JavaScript+Uyrenip+Atirmen;GitHub+Profilime+Xosh+Keldiniz" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 Men haqqımda
+
+- 🔥 Atım: Asqar
+- 🎂 Jasım: 14
+- 🌍 Mámleketim: Uzbekistan
+- 💻 Uyrenip atırǵanım: HTML, CSS, JavaScript
+- 🎮 Suyikti oyınım: Minecraft
+- 🚀 Maqsetim: Zor programmist bolıw
+
+---
+
+## 🛠️ Texnologiyalar
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,figma" />
+</p>
+
+---
+
+## 📊 GitHub Statistikam
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Jetiskenlikler
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Meniń Social Tarmaqlarım
+
+<p align="center">
+  <a href="https://t.me/USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://youtube.com/@USERNAME">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 👀 Profilge Kirgenler Sanı
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🎵 Motivaciya
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
